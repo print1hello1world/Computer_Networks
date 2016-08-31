@@ -2,7 +2,7 @@ ul {
     list-style-type: none;
     padding: 1px;
     overflow: hidden;
-    background-color: #332;
+    background-color: #331;
 }
 
 li {
@@ -19,7 +19,7 @@ li a {
 
 
 li a:hover {
-    background-color: #554;
+    background-color: #553;
 }
 
 nav, nav ul {
