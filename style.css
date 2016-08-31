@@ -27,11 +27,11 @@ li a:hover {
 }
 
 nav, nav ul {
-    width: 100vw;
+    width: 97vw;
     left: 0;
     right: 0;
     top: 0;
     margin: auto;
     position: fixed;
-    padding: 3px white;
+    border: 3px solid white;
 }
