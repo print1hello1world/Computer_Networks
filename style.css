@@ -1,12 +1,8 @@
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 1;
+    padding: 1px;
     overflow: hidden;
     background-color: #332;
-    position: fixed;
-    top: 1;
-    width: 75%;
 }
 
 li {
@@ -27,13 +23,8 @@ li a:hover {
 }
 
 nav, nav ul {
-    width: 97vw;
-    left: 0;
-    right: 0;
     top: 0;
     margin: auto;
-    position: fixed;
-    border: 3px solid white;
 }
 
 body {
@@ -41,10 +32,12 @@ body {
 }
 
 main {
+    padding-left: 3px;
+    padding-right: 3px;
     background-color: red;
     width: 80vw;
     margin-left: 10vw;
     height: 90vh;
     color: white;
-    border-radius: 10%;
+    border-radius: 6px;
 }
