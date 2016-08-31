@@ -26,6 +26,8 @@ li a:hover {
     background-color: #554;
 }
 
-nav {
+nav, nav ul {
     width: 100vw;
+    left: 0;
+    right: 0;
 }
