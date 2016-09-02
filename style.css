@@ -37,3 +37,7 @@ main {
     border-radius: 6px;
     font-family: 'Oxygen', sans-serif;
 }
+
+#mainimg {
+    width: 70vw;
+}
