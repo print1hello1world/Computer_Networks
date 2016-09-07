@@ -32,12 +32,13 @@ main {
     background-color: white;
     width: 80vw;
     margin-left: 10vw;
-    height: 90vh;
+    height: 100vh;
     color: black;
     border-radius: 6px;
     font-family: 'Oxygen', sans-serif;
 }
 
 #homeimg {
-    width: 70vw;
+    max-width: 70vw;
+    max-height: 70vh;
 }
