@@ -41,4 +41,6 @@ main {
 #homeimg {
     max-width: 75vw;
     max-height: 75vh;
+    margin-right 3px;
+    margin-top 3px;
 }
