@@ -48,3 +48,8 @@ main {
     max-height: 75vh;
     margin: 0.54vh;
 }
+#SecurityMain {
+    max-width: 75vw;
+    max-height: 75vh;
+    margin: 0.54vh;
+}
